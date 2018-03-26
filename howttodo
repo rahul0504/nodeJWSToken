@@ -1,0 +1,6 @@
+how to check :
+
+1. first pass POST request with url "/authenticate" with username as "rahul" & password as "rahul123"
+   in POSTMAN to get access token
+
+2. use token in "access-token" in headers to get results.
